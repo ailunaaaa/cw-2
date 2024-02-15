@@ -80,7 +80,7 @@ section{
 }
 .sec_tit{
 	font-size: 48px;
-	line-height: 62;
+	line-height: 62px;
 }
 .dib{
 	display: inline-block;
@@ -92,4 +92,14 @@ section{
 }
 .card_img{
 	width: calc((100% - 72)/3);
+}
+.coffee_img{
+	width: 226px;
+	margin-left: 200px;
+}
+.coffee_content{
+	max-width: 562px;
+}
+.coffee .sec_tit{
+	margin-bottom: 25px;
 }
